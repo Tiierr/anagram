@@ -29,20 +29,22 @@ Use a single word
 =========
 ..  code:: bash
 
-$ anagram cat
-1. act
-2. cat
+    $ anagram cat
+    1. act
+    2. cat
 
 Use a sentence
 =========
-$  anagram a dog
-1. goad
-2. a god
-3. a dog
-4. ad go
+..  code:: bash
+    $  anagram a dog
+    1. goad
+    2. a god
+    3. a dog
+    4. ad go
 
 Changelog
 =======
+
  - v0.0.1
   - first version, with base function.
 
