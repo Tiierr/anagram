@@ -36,6 +36,7 @@ Use a single word
 Use a sentence
 =========
 ..  code:: bash
+
     $  anagram a dog
     1. goad
     2. a god
@@ -45,7 +46,7 @@ Use a sentence
 Changelog
 =======
 
- - v0.0.1
+- v0.0.1
   - first version, with base function.
 
 LICENSE
